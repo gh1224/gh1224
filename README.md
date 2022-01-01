@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rlarkgus1224@gmail.com" target="_blank"> </a>
+
 <!--
 **gh1224/gh1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
