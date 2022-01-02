@@ -68,5 +68,5 @@ Hello!
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rlarkgus1224@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a>
 
 
-[![gh1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh1224)](https://github.com/gh1224/github-readme-stats)
+[![gh1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh1224)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgh1224)](https://solved.ac/kgh1224/)
