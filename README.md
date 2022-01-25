@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://simpleicons.org/
 -->
 
 
@@ -33,6 +35,7 @@ Hello!
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
@@ -42,8 +45,12 @@ Hello!
 
 <p align ="center">
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=Spring Security&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white&style=flat" />
@@ -52,7 +59,8 @@ Hello!
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat" />
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
+  
 
 ###  :hammer:Tools
 
