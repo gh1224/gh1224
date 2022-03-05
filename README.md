@@ -20,10 +20,6 @@ https://simpleicons.org/
 
 
 
-Hello!
-
-
-
 ###  :muscle:Skills
 
 <p align ="center">
@@ -59,7 +55,7 @@ Hello!
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
+<!-- 리액트 네이티브 -->
   
 
 ###  :hammer:Tools
@@ -68,7 +64,8 @@ Hello!
 <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Slack-E34F26?logo=Slack&logoColor=white&style=flat" />  
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white&style=flat" />  
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
 
   
 ###  :mailbox: Contact
