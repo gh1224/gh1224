@@ -35,17 +35,18 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=Spring Security&logoColor=white&style=flat" />
 
 
 ### :seedling: Studying
 
 <p align ="center">
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=Spring Security&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat" />
@@ -54,8 +55,9 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat" />
+
 <!-- 리액트 네이티브 -->
+<!-- 젠킨스 -->
   
 
 ###  :hammer:Tools
