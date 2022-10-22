@@ -19,10 +19,9 @@ https://simpleicons.org/
 
 
 
-
 ###  :muscle:Skills
 
-<p align ="center">
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/JAVA-007396?logo=JAVA&logoColor=white&style=flat" />
@@ -40,11 +39,12 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=Spring Security&logoColor=white&style=flat" />
+</p>
 
 
 ### :seedling: Studying
 
-<p align ="center">
+<p>
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white&style=flat" />
@@ -58,23 +58,26 @@ https://simpleicons.org/
 
 <!-- 리액트 네이티브 -->
 <!-- 젠킨스 -->
-  
+</p>
+
 
 ###  :hammer:Tools
 
-<p align ="center">
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white&style=flat" />  
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
+</p>
 
-  
+
 ###  :mailbox: Contact
-  
-<p align ="center">
+
+<p>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rlarkgus1224@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat" ></a>
+</p>
 
 
-[![gh1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh1224)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgh1224)](https://solved.ac/kgh1224/)
+[![gh1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh1224)](https://github.com/anuraghazra/github-readme-stats)
