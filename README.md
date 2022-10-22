@@ -18,45 +18,45 @@ https://simpleicons.org/
 -->
 
 ### 마법의 소라고동 (22-1 창의융합종합설계2)
-- api-server: Spring Boot, Spring Security, MariaDB, Docker, Jenkins
-- model-server: Flask
-- training-model: Keras
+- [api-server](https://github.com/kit-magic-conch/api-server): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
+- [model-server](https://github.com/kit-magic-conch/model-server): Flask
+- [training-model](https://github.com/gh1224/speech-emotion-recognition): Keras
 
 ### ICMIC 홈페이지
-- server: Thymeleaf, Spring Boot
+- [server](): Thymeleaf, Spring Boot
 
 ### 가족회사 플랫폼
-- server: Thymeleaf, Bootstrap
+- [server](): Thymeleaf, Bootstrap
 
 ### CGV 클론 페이지 (22-1 고급웹프로그래밍 과제)
-- api-server: Spring Boot, Spring Security, MariaDB, Docker, Jenkins
+- [api-server](): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
 
 ### 고쳐줄개 (21-2 창의융합종합설계1)
-- api-server: Node.js, Express, Docker
-- model-server: Flask
+- [api-server](): Node.js, Express, Docker
+- [model-server](): Flask
 
 ### 음성 녹음 여부 분류 모델
-- training-model: Keras
+- [training-model](): Keras
 
 ### 건강해 (21-1 창의프로젝트)
-- client: JavaFX
+- [client](): JavaFX
 
 ### 게임
-- 틀린그림찾기 (19-1 전공컴퓨터기초 자유과제): JavaFX
-- 지뢰찾기: JavaFX
-- 테트리스: JavaFX
-- 뱀게임: JavaFX
+- [틀린그림찾기 (19-1 전공컴퓨터기초 자유과제)](): JavaFX
+- [지뢰찾기](): JavaFX
+- [테트리스](): JavaFX
+- [뱀게임](): JavaFX
 
 ### 20-1 자료구조 과제
-- 연결리스트: C++
-- 트리: C++
-- 스택계산기 (20-1 자료구조 과제): C++
+- [연결리스트](): C++
+- [트리](): C++
+- [스택계산기 (20-1 자료구조 과제)](): C++
 
 ### 19-2 C++프로그래밍 과제
-- 분수: C++
-- 디데이 계산기: C++
-- MyString: C++
-- Document 상속 과제: C++
+- [분수](): C++
+- [디데이 계산기](): C++
+- [MyString](): C++
+- [Document 상속 과제](): C++
 
 
 
