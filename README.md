@@ -23,26 +23,25 @@ https://simpleicons.org/
 - [training-model](https://github.com/gh1224/speech-emotion-recognition): Keras
 
 ### ICMIC 홈페이지
-- [server](): Thymeleaf, Spring Boot
+- [server](https://github.com/lichee55/icmic-web): Thymeleaf, Spring Boot
 
 ### 가족회사 플랫폼
-- [server](): Thymeleaf, Bootstrap
+- [server](https://github.com/kit-iacoop/iac-platform): Thymeleaf, Bootstrap
 
 ### CGV 클론 페이지 (22-1 고급웹프로그래밍 과제)
-- [api-server](): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
+- [api-server](https://github.com/spring-cgv/api-server): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
 
-### 고쳐줄개 (21-2 창의융합종합설계1)
-- [api-server](): Node.js, Express, Docker
-- [model-server](): Flask
+### DocTer (21-2 창의융합종합설계1)
+- [api-server](https://github.com/sig21summer/web-server): Node.js, Express, Docker
 
 ### 음성 녹음 여부 분류 모델
-- [training-model](): Keras
+- [training-model](https://github.com/binAudioMeo/keras-CNN-MFCC): Keras
 
 ### 건강해 (21-1 창의프로젝트)
-- [client](): JavaFX
+- [client](https://github.com/creative-project-21/network): JavaFX
 
 ### 게임
-- [틀린그림찾기 (19-1 전공컴퓨터기초 자유과제)](): JavaFX
+- [틀린그림찾기 (19-1 전공컴퓨터기초 자유과제)](https://github.com/gh1224-assignment/Hidden-Catch): JavaFX
 - [지뢰찾기](): JavaFX
 - [테트리스](): JavaFX
 - [뱀게임](): JavaFX
