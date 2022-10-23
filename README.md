@@ -18,18 +18,18 @@ https://simpleicons.org/
 -->
 
 ### 마법의 소라고동 (22-1 창의융합종합설계2)
-- [api-server](https://github.com/kit-magic-conch/api-server): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
-- [model-server](https://github.com/kit-magic-conch/model-server): Flask
+- [api-server](https://github.com/kit-magic-conch/api-server): Spring Boot, Spring Security, MariaDB, Docker
+- [model-server](https://github.com/kit-magic-conch/model-server): Flask, Keras
 - [training-model](https://github.com/gh1224/speech-emotion-recognition): Keras
 
 ### ICMIC 홈페이지
-- [server](https://github.com/lichee55/icmic-web): Thymeleaf, Spring Boot
+- [server](https://github.com/lichee55/icmic-web): Thymeleaf, jQuery, Spring Boot
 
 ### 가족회사 플랫폼
-- [server](https://github.com/kit-iacoop/iac-platform): Thymeleaf, Bootstrap
+- [server](https://github.com/kit-iacoop/iac-platform): Thymeleaf, jQuery, Bootstrap
 
 ### CGV 클론 페이지 (22-1 고급웹프로그래밍 과제)
-- [api-server](https://github.com/spring-cgv/api-server): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
+- [api-server](https://github.com/spring-cgv/api-server): Spring Boot, Spring Security, MariaDB, Docker
 
 ### DocTer (21-2 창의융합종합설계1)
 - [api-server](https://github.com/sig21summer/web-server): Node.js, Express, Docker
@@ -41,9 +41,9 @@ https://simpleicons.org/
 - [client](https://github.com/creative-project-21/network): JavaFX
 
 ### 게임
-- [틀린그림찾기 (19-1 전공컴퓨터기초 자유과제)](https://github.com/gh1224-assignment/Hidden-Catch): JavaFX
-- [지뢰찾기](): JavaFX
-- [테트리스](): JavaFX
+- [틀린그림찾기 (19-1 전공컴퓨터기초 자유과제)](https://github.com/gh1224-assignment/Hidden-Catch): Java Swing
+- [지뢰찾기](https://github.com/gh1224/Minesweeper): JavaFX
+- [테트리스](https://github.com/gh1224/Tetris): JavaFX
 - [뱀게임](): JavaFX
 
 ### 20-1 자료구조 과제
