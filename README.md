@@ -23,7 +23,7 @@ https://simpleicons.org/
 - [training-model](https://github.com/gh1224/speech-emotion-recognition): Keras
 
 ### ICMIC 홈페이지
-- [server](https://github.com/lichee55/icmic-web): Thymeleaf, jQuery, Spring Boot
+- [server](https://github.com/gh1224/icmic): Thymeleaf, jQuery, Spring Boot
 
 ### 가족회사 플랫폼
 - [server](https://github.com/kit-iacoop/iac-platform): Thymeleaf, jQuery, Bootstrap
