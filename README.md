@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 https://simpleicons.org/
 -->
+(과제 repo는 [여기](https://github.com/gh1224-assignment)에 분리)
 
 ### 마법의 소라고동 (22-1 창의융합종합설계2)
 - [api-server](https://github.com/kit-magic-conch/api-server): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
