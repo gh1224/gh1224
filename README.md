@@ -18,6 +18,12 @@ https://simpleicons.org/
 -->
 (과제 repo는 [여기](https://github.com/gh1224-assignment)에 분리)
 
+
+## 다른 organization 위주 정리
+
+### Prolog
+- [api-server](https://github.com/gh1224/prolog): Spring Boot, Spring Security, MySQL, JUnit5
+
 ### 마법의 소라고동 (22-1 창의융합종합설계2)
 - [api-server](https://github.com/kit-magic-conch/api-server): Spring Boot, Spring Security, MariaDB, Docker, Jenkins
 - [model-server](https://github.com/kit-magic-conch/model-server): Flask, Keras
