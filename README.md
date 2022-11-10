@@ -57,14 +57,15 @@ https://simpleicons.org/
 ### 20-1 자료구조 과제
 - [연결리스트](): C++
 - [트리](): C++
-- [스택계산기 (20-1 자료구조 과제)](): C++
+- [스택계산기](): C++
+- [행렬](): C++
 
 ### 19-2 C++프로그래밍 과제
-- [분수](): C++
-- [디데이 계산기](): C++
-- [MyString](): C++
-- [Document 상속 과제](): C++
-
+- [연결리스트 (자율학습 과제)](): C++
+- [Document 상속 과제](https://github.com/gh1224-assignment/Cpp_Document): C++
+- [MyString](https://github.com/gh1224-assignment/Cpp_MyString): C++
+- [디데이 계산기](https://github.com/gh1224-assignment/Cpp_Dday): C++
+- [분수 클래스](https://github.com/gh1224-assignment/Cpp_Fraction): C++
 
 <!--
 동적배열
