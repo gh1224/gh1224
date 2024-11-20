@@ -1,4 +1,4 @@
-# gh1224
+# ~ 대학
 
 <!--
 **gh1224/gh1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
